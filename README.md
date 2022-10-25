@@ -1,2 +1,2 @@
-# wallrider e mask
+# wallrider and mask
 a front end project.
